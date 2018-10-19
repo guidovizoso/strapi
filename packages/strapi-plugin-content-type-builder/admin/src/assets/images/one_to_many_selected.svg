@@ -14,15 +14,15 @@
                         <g id="One-to-many" transform="translate(329.000000, 159.000000)">
                             <g id="Rectangle-13">
                                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
-                                <rect stroke="#1C5DE7" stroke-width="1" x="0.5" y="0.5" width="40" height="40" rx="2"></rect>
+                                <rect stroke="#5f27cd" stroke-width="1" x="0.5" y="0.5" width="40" height="40" rx="2"></rect>
                             </g>
-                            <rect id="Rectangle-15" fill="#1C5DE7" x="13" y="20.75" width="14" height="2"></rect>
-                            <rect id="Rectangle-15" fill="#1C5DE7" transform="translate(19.750000, 16.499833) rotate(-26.000000) translate(-19.750000, -16.499833) " x="11" y="15.4998333" width="17.5" height="2"></rect>
-                            <rect id="Rectangle-14" stroke="#1C5DE7" x="6.5" y="18.5" width="6" height="6" rx="3"></rect>
-                            <rect id="Rectangle-14" stroke="#1C5DE7" x="27.5" y="18.5" width="6" height="6" rx="3"></rect>
-                            <rect id="Rectangle-14" stroke="#1C5DE7" x="27.5" y="8.5" width="6" height="6" rx="3"></rect>
-                            <rect id="Rectangle-15" fill="#1C5DE7" transform="translate(19.750000, 26.750000) scale(-1, 1) rotate(-26.000000) translate(-19.750000, -26.750000) " x="11" y="26" width="17.5" height="1.5"></rect>
-                            <rect id="Rectangle-14" stroke="#1C5DE7" transform="translate(30.500000, 31.500000) scale(-1, 1) translate(-30.500000, -31.500000) " x="27.5" y="28.5" width="6" height="6" rx="3"></rect>
+                            <rect id="Rectangle-15" fill="#5f27cd" x="13" y="20.75" width="14" height="2"></rect>
+                            <rect id="Rectangle-15" fill="#5f27cd" transform="translate(19.750000, 16.499833) rotate(-26.000000) translate(-19.750000, -16.499833) " x="11" y="15.4998333" width="17.5" height="2"></rect>
+                            <rect id="Rectangle-14" stroke="#5f27cd" x="6.5" y="18.5" width="6" height="6" rx="3"></rect>
+                            <rect id="Rectangle-14" stroke="#5f27cd" x="27.5" y="18.5" width="6" height="6" rx="3"></rect>
+                            <rect id="Rectangle-14" stroke="#5f27cd" x="27.5" y="8.5" width="6" height="6" rx="3"></rect>
+                            <rect id="Rectangle-15" fill="#5f27cd" transform="translate(19.750000, 26.750000) scale(-1, 1) rotate(-26.000000) translate(-19.750000, -26.750000) " x="11" y="26" width="17.5" height="1.5"></rect>
+                            <rect id="Rectangle-14" stroke="#5f27cd" transform="translate(30.500000, 31.500000) scale(-1, 1) translate(-30.500000, -31.500000) " x="27.5" y="28.5" width="6" height="6" rx="3"></rect>
                         </g>
                     </g>
                 </g>

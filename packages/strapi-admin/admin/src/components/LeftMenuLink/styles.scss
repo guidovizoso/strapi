@@ -54,7 +54,7 @@
   &:hover {
     color: $white;
     background: $left-menu-link-hover;
-    border-left: 0.3rem solid $strapi-blue;
+    border-left: 0.3rem solid $fi-violet;
     text-decoration: none;
   }
 
@@ -70,7 +70,7 @@
 
 .linkActive {
   color: $white !important;
-  border-left: 0.3rem solid $strapi-blue;
+  border-left: 0.3rem solid $fi-violet;
 }
 
 .linkIcon {

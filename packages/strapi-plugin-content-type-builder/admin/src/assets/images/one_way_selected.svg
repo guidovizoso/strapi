@@ -10,11 +10,11 @@
                 <g id="path-1-link" fill="#FFFFFF">
                     <rect id="path-1" x="0" y="0" width="41" height="41" rx="2"></rect>
                 </g>
-                <rect id="Rectangle-path" stroke="#1C5DE7" x="0.5" y="0.5" width="40" height="40" rx="2"></rect>
+                <rect id="Rectangle-path" stroke="#5f27cd" x="0.5" y="0.5" width="40" height="40" rx="2"></rect>
             </g>
-            <rect id="Rectangle-15" stroke="#1C5DE7" x="14" y="21.25" width="14" height="1"></rect>
-            <rect id="Rectangle-14" stroke="#1C5DE7" x="7.5" y="18.5" width="6" height="6" rx="3"></rect>
+            <rect id="Rectangle-15" stroke="#5f27cd" x="14" y="21.25" width="14" height="1"></rect>
+            <rect id="Rectangle-14" stroke="#5f27cd" x="7.5" y="18.5" width="6" height="6" rx="3"></rect>
         </g>
-        <polygon id="Triangle" stroke="#1C5DE7" points="33.5 21.5 28.5 24.5 28.5 18.5"></polygon>
+        <polygon id="Triangle" stroke="#5f27cd" points="33.5 21.5 28.5 24.5 28.5 18.5"></polygon>
     </g>
 </svg>

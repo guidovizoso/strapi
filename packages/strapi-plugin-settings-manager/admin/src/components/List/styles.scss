@@ -155,7 +155,7 @@ button {
 
 .normal {
   font-family: Lato;
-  color: #1C5DE7;
+  color: #5f27cd;
   cursor: pointer;
 }
 
@@ -173,12 +173,12 @@ button {
   line-height: 1.6rem;
   font-weight: 600;
   border-radius: 3px;
-  background: linear-gradient(315deg, #0097F6 0%, #005EEA 100%);
+  background: linear-gradient(315deg, #5f27cd 0%, #341f97 100%);
   -webkit-font-smoothing: antialiased;
   color: white!important;
   &:active, &:focus, &:hover {
     box-shadow: inset 1px 1px 3px rgba(0,0,0,.15);
-    background: linear-gradient(315deg, #0097F6 0%, #005EEA 100%);
+    background: linear-gradient(315deg, #5f27cd 0%, #341f97 100%);
     background-color: transparent;
     border: none;
  }
@@ -231,7 +231,7 @@ button {
 }
 
 .normal {
-  color: #1C5DE7;
+  color: #5f27cd;
   padding-top: 0rem;
 }
 
